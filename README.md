@@ -2,7 +2,7 @@ Desafio Dio.me - Git/GitHub (baby steps,',',')
 <br>Desafio de Projeto sobre Git/GitHub
 
 <h3>Sites</h3>
-<br>Download GitBash (git-scm.com)
+<br>Download GitBash (https://git-scm.com)
 <br>Cadastre-se no GitHub (https://github.com)
 
 <h3>Principais comandos Git/GitHub:</h3>
