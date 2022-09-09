@@ -14,14 +14,14 @@ _Para Windows_
 <br>TAB                     **Completa o nome**
 <br>del workspace           **Deletar pasta**
 
-<p> Comandos com "git" </p>
+<h3> Comandos com "git" </h3>
 <br> git clone https://      **Copia link e transfere para GitBash**
 <br> git status              **Verifica atualizações**
 <br> git add                 **Compartilhar**
 <br> git commit -m           **Incluindo anotações**
 
 
-<h4> Add a READ ME </h4>
+<h4> Adicionando READ ME </h4>
 [Title - Tema de sua preferência] (https://link)
 
 
