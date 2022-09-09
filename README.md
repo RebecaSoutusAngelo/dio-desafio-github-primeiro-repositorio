@@ -5,10 +5,10 @@ Download GitBash (git-scm.com)
 Cadastre-se no GitHub (https://github.com)
 
 Principais comandos Git/GitHub:
-WINDOWS = cmd = Prompt de Comando
-dir(windows) ou ls(linux)- comando para listar/situar no local
-cd/ (windows e linux)- navegar local específico
-cd:(windows) - voltar uma etapa
-cls ou ctrl+l (windows) ou clear (linux)
-TAB - completa o nome (windows)
-del workspace - deletar pasta (windows)
+<p>WINDOWS = cmd = Prompt de Comando</p>
+<p>dir(windows) ou ls(linux)- comando para listar/situar no local</p>
+<p>cd/ (windows e linux)- navegar local específico</p>
+<p>cd:(windows) - voltar uma etapa</p>
+<p>cls ou ctrl+l (windows) ou clear (linux)</p>
+<p>TAB - completa o nome (windows)</p>
+<p>del workspace - deletar pasta (windows)</p>
